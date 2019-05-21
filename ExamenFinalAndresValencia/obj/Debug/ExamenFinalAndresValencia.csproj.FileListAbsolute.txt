@@ -1,0 +1,9 @@
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\bin\Debug\ExamenFinalAndresValencia.exe.config
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\bin\Debug\ExamenFinalAndresValencia.exe
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\bin\Debug\ExamenFinalAndresValencia.pdb
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\obj\Debug\ExamenFinalAndresValencia.csprojResolveAssemblyReference.cache
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\obj\Debug\ExamenFinalAndresValencia.Form1.resources
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\obj\Debug\ExamenFinalAndresValencia.Properties.Resources.resources
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\obj\Debug\ExamenFinalAndresValencia.csproj.GenerateResource.Cache
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\obj\Debug\ExamenFinalAndresValencia.exe
+d:\users\andres.valencia_ren\documents\visual studio 2015\Projects\ExamenFinalAndresValencia\ExamenFinalAndresValencia\obj\Debug\ExamenFinalAndresValencia.pdb
